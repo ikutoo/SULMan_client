@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game2D_01.CSharp", "Game2D_01.CSharp.csproj", "{5605C071-53AD-F538-2294-BAEEEC306364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game2D_01.CSharp.Editor", "Game2D_01.CSharp.Editor.csproj", "{D43F4EC9-723A-43D9-6C24-AD64F591FCFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateMap", "..\CreateMap\CreateMap.csproj", "{AC565231-D324-4DAD-969A-B36029B9858D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5605C071-53AD-F538-2294-BAEEEC306364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5605C071-53AD-F538-2294-BAEEEC306364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5605C071-53AD-F538-2294-BAEEEC306364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5605C071-53AD-F538-2294-BAEEEC306364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D43F4EC9-723A-43D9-6C24-AD64F591FCFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43F4EC9-723A-43D9-6C24-AD64F591FCFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43F4EC9-723A-43D9-6C24-AD64F591FCFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43F4EC9-723A-43D9-6C24-AD64F591FCFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC565231-D324-4DAD-969A-B36029B9858D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC565231-D324-4DAD-969A-B36029B9858D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC565231-D324-4DAD-969A-B36029B9858D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC565231-D324-4DAD-969A-B36029B9858D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

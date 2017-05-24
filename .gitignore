@@ -1,0 +1,14 @@
+/apk
+/.vs
+/Library
+/obj
+/web-build
+/win32-build
+*.unitypackage
+*.meta
+/Assets/Atlas
+/Assets/Font
+/Assets/HUD Text
+/Assets/Images
+/Assets/NGUI
+/Assets/*.png
